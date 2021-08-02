@@ -1,4 +1,7 @@
-### 5.08.2021
+
+https://learn.javascript.ru/
+
+#### 5.08.2021
 - [ ] Дойти до 9.7 в learn.javascript.ru
 - [ ] Решить 5 задач 
 - [ ] Узнать про слияние объектов
@@ -6,5 +9,3 @@
 - [ ] Узнать про markForCheck() 
 
 
-
-https://learn.javascript.ru/
