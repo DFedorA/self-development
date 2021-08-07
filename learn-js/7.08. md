@@ -1,0 +1,20 @@
+Write a function that will return the count of distinct case-insensitive alphabetic characters and numeric  
+digits that occur more than once in the input string. The input string can be assumed to contain only   
+alphabets (both uppercase and lowercase) and numeric digits.  
+
+```js
+function duplicateCount(text){
+  let textArray = text.toLowerCase().split('');
+
+  let count = textArray.reduce(
+    (accumulator, currentValue) => {
+    accumulator[currentValue] =  (accumulator[currentValue] +1) || 1;
+    return accumulator;
+    },{});
+    return Object.values(count).reduce(
+      (accumulator, currentValue)=> {
+        if(currentValue > 1) accumulator = accumulator+1;
+        return accumulator;
+      },0)
+  }
+  ```
