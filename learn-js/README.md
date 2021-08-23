@@ -1,7 +1,7 @@
 
 https://learn.javascript.ru/
 
-#### до 19.08.2021
+#### до 23.08.2021
 - [x] Дойти до 2.3 (часть 2) на learn.javascript.ru.
 - [x] Написать Infinite Scrolling
 - [x] Найти ответ на вопросы
