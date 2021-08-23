@@ -1,10 +1,15 @@
 
 https://learn.javascript.ru/
+
+#### до 19.08.2021
+- [x] Дойти до 2.3 (часть 2) на learn.javascript.ru.
+- [x] Написать Infinite Scrolling
+- [x] Найти ответ на вопросы
+
 #### до 19.08.2021
 - [x] Дойти до 1.11 (часть 2) в learn.javascript.ru.
 - [x] Сделать рефакторинг задач от Дмитрия
 - [x] Найти ответ на вопросы
-- [ ] Написать infinite scroll на angular 
 
 #### до 16.08.2021
 - [x] Дойти до 14.6 в learn.javascript.ru (с разбором примеров).
