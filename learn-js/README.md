@@ -2,8 +2,9 @@
 https://learn.javascript.ru/
 
 #### до 30.08.2021
-- [x] Дойти до 3.2 (часть 2) на learn.javascript.ru
+- [x] Дойти до 3.1 (часть 2) на learn.javascript.ru
 - [x] Задача
+- [x] Написать отчет по практики
 
 #### до 26.08.2021
 - [x] Дойти до 2.5 (часть 2) на learn.javascript.ru. + задачи
