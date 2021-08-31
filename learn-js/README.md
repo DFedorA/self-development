@@ -1,6 +1,10 @@
 
 https://learn.javascript.ru/
 
+#### 31.08.2021
+- [x] Изучил 3.2 Движение мыши: mouseover/out, mouseenter/leave на learn.javascript.ru
+- [x] Решил 1 задачу
+
 #### до 30.08.2021
 - [x] Дойти до 3.1 (часть 2) на learn.javascript.ru
 - [x] Задача
