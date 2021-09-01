@@ -1,6 +1,10 @@
 
 https://learn.javascript.ru/
 
+#### 1.09.2021
+- [x] Изучил 3.3 Drag'n'Drop с событиями мыши на learn.javascript.ru
+- [x] Изучил 3.4 Клавиатура: keydown и keyup на learn.javascript.ru
+
 #### 31.08.2021
 - [x] Изучил 3.2 Движение мыши: mouseover/out, mouseenter/leave на learn.javascript.ru
 - [x] Решил 1 задачу
