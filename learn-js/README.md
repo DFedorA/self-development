@@ -1,6 +1,10 @@
 
 https://learn.javascript.ru/
 
+#### 3.09.2021
+- [x] Изучил 3.5 События указателя на learn.javascript.ru
+- [x] Изучил 3.6 Прокрутка на learn.javascript.ru
+
 #### 1.09.2021
 - [x] Изучил 3.3 Drag'n'Drop с событиями мыши на learn.javascript.ru
 - [x] Изучил 3.4 Клавиатура: keydown и keyup на learn.javascript.ru
