@@ -1,6 +1,15 @@
 
 https://learn.javascript.ru/
 
+#### 5.09.2021
+- [x] Изучил 6.1 MutationObserver: наблюдатель за изменениями на learn.javascript.ru
+- [x] Изучил 6.2 Selection и Range на learn.javascript.ru
+- [x] Изучил 6.3 Событийный цикл: микрозадачи и макрозадачи на learn.javascript.ru
+
+#### 4.09.2021
+- [x] Изучил Формы, элементы управления (4.1 - 4.4) на learn.javascript.ru
+- [x] Изучил Загрузка документа и ресурсовь (5.1 - 5.3) на learn.javascript.ru
+
 #### 3.09.2021
 - [x] Изучил 3.5 События указателя на learn.javascript.ru
 - [x] Изучил 3.6 Прокрутка на learn.javascript.ru
