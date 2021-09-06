@@ -1,6 +1,10 @@
 
 https://learn.javascript.ru/
 
+
+#### 6.09.2021
+- [x] Решил задачу из раздела Введение в браузерные события (https://learn.javascript.ru/task/move-ball-field) на learn.javascript.ru
+
 #### 5.09.2021
 - [x] Изучил 6.1 MutationObserver: наблюдатель за изменениями на learn.javascript.ru
 - [x] Изучил 6.2 Selection и Range на learn.javascript.ru
