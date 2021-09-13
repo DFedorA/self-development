@@ -1,6 +1,8 @@
 
 https://learn.javascript.ru/
 
+#### 13.09.2021
+- [x] Решил задачу из раздела Формы, элементы управления (https://learn.javascript.ru/form-elements) на learn.javascript.ru
 
 #### 6.09.2021
 - [x] Решил задачу из раздела Введение в браузерные события (https://learn.javascript.ru/task/move-ball-field) на learn.javascript.ru
