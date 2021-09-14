@@ -1,6 +1,9 @@
 
 https://learn.javascript.ru/
 
+#### 14.09.2021
+- [x] Решил задачу из раздела Фокусировка: focus/blur (https://learn.javascript.ru/focus-blur) на learn.javascript.ru
+
 #### 13.09.2021
 - [x] Решил задачу из раздела Формы, элементы управления (https://learn.javascript.ru/form-elements) на learn.javascript.ru
 
