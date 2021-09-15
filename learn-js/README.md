@@ -1,6 +1,9 @@
 
 https://learn.javascript.ru/
 
+#### 15.09.2021
+- [x] Изучил (частично решил) задачу из раздела События: change, input, cut, copy, paste https://learn.javascript.ru/events-change-input) на learn.javascript.ru
+
 #### 14.09.2021
 - [x] Решил задачу из раздела Фокусировка: focus/blur (https://learn.javascript.ru/focus-blur) на learn.javascript.ru
 
