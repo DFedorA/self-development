@@ -1,6 +1,14 @@
 
 https://learn.javascript.ru/
 
+
+
+#### 22.09.2021
+- [x] Изучил 1.1 Открытие окон и методы window на learn.javascript.ru
+- [x] Изучил 1.2 Общение между окнами на learn.javascript.ru
+- [x] Изучил 1.3 Атака типа clickjacking на learn.javascript.ru
+
+
 #### 15.09.2021
 - [x] Изучил (частично решил) задачу из раздела События: change, input, cut, copy, paste https://learn.javascript.ru/events-change-input) на learn.javascript.ru
 
