@@ -1,7 +1,11 @@
 
 https://learn.javascript.ru/
 
+#### 29.09.2021
+- [x] Изучил Возобновляемая загрузка файлов,WebSocket,Длинные опросы,Server Sent Events на learn.javascript.ru
 
+#### 29.09.2021
+- [x] Изучил раздел Бинарные данные и файлы на learn.javascript.ru 
 
 #### 22.09.2021
 - [x] Изучил 1.1 Открытие окон и методы window на learn.javascript.ru
