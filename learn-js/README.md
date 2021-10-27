@@ -1,6 +1,18 @@
 
 https://learn.javascript.ru/
 
+#### 27.10.2021
+- [x] Изучил c 8.1 по 8.17 и 5.1 по 5.3 на learn.javascript.ru (часть 3)
+
+#### 20.10.2021
+- [x] Изучил c 3.1 по 3.8 на learn.javascript.ru (часть 3)
+
+#### 13.10.2021
+- [x] Изучил c 6.1 по 6.7 на learn.javascript.ru (часть 3)
+
+#### 6.10.2021
+- [x] Изучил c 4.1 по 4.3 на learn.javascript.ru (часть 3)
+
 #### 29.09.2021
 - [x] Изучил Возобновляемая загрузка файлов,WebSocket,Длинные опросы,Server Sent Events на learn.javascript.ru
 
